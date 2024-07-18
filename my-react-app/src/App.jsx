@@ -8,6 +8,7 @@ import Pin from './page/PIN_page'
 import EMI from './page/EMI'
 import Modal from "./page/modal"
 import { Ucounter } from './page/undoable'
+import Auto from './page/autosugg'
 // import Pin from './page/PIN_page'
 
 function App() {
@@ -24,8 +25,9 @@ function App() {
         
       {/* </div> */}
       {/* <Modal/> */}
-      {/* <h1></h1> */}
-      <Ucounter></Ucounter>
+     
+      {/* <Ucounter></Ucounter> */}
+      {/* <Auto></Auto>  */}
      
       
     </div>
